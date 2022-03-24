@@ -5,14 +5,16 @@ Web: https://www.highcharts.com/
 ## Content
 
 1. First Basic Charts (data written to main.js).
-   - Basic Bar
-   - Basic Line
-2. Chart using CSV File.
-   - Pie Chart
-3. Chart using CSV File.
-   - Basic Bar
+   - Fruit Consumption -> Basic Bar.
+   - Solar Employment Growth by Sector, 2010-2016 -> Basic Line.
+2. Pie Chart using CSV File.
+   - Browser market shares in January, 2018.
+3. Basic Bar chart using CSV File.
+   - Historic World Population by Region.
 4. Chart Basic Area (data written to index.html).
-   - Basic Area
+   - Global temperature change (Show only last 20 years by limiting start row).
+5. Split Packed Bubble Chart (data written to main.js).
+   - Carbon emisions around the world (2014).
 
 Examples made with data from: https://www.highcharts.com/demo
 
