@@ -1,8 +1,8 @@
-# Chart examples with Highcharts
+# Chart examples with Highcharts 📊
 
 Web: https://www.highcharts.com/
 
-## Content
+## Content ✍️
 
 1. First Basic Charts (data written to main.js).
    - Fruit Consumption -> Basic Bar.
@@ -18,7 +18,7 @@ Web: https://www.highcharts.com/
 
 Examples made with data from: https://www.highcharts.com/demo
 
-## Description
+## Description ⭐
 
 - Highcharts is a pure JavaScript based charting library meant to enhance web applications by adding interactive charting capability.
 - Is a library written in Javascript that allows the creation of charts.
